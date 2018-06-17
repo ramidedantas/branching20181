@@ -14,4 +14,8 @@ public class MainClass {
 		System.out.println("Branch Eclipse 2");
 	}
 
+	private void newFeat() {
+		// do nothing
+	}
+
 }
