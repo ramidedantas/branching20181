@@ -16,6 +16,7 @@ public class MainClass {
 
 	private void newFeat() {
 		System.out.println("Branch Feature Bash");
+		System.out.println("Branch Feature Eclipse");
 	}
 
 }
