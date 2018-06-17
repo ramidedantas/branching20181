@@ -8,7 +8,7 @@ public class MainClass {
 		
 		System.out.println("Newest stuff.");
 		
-		System.out.println("Branch Eclipse");
+		System.out.println("Branch Eclipse 2");
 	}
 
 }
