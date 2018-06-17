@@ -15,7 +15,7 @@ public class MainClass {
 	}
 
 	private void newFeat() {
-		// do nothing
+		System.out.println("Branch Feature Bash");
 	}
 
 }
